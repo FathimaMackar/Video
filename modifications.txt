@@ -1,0 +1,10 @@
+User:
+
+1.On click of a video ,videoplay page appears with the particular video uploaded user's image.
+On click of that image and name ,it should redirect to the particular user's profile for others to view.
+
+2.videos should be downloaded only by gold users.
+
+3.Search keyword should be stored and next time the user login, videos based on searched keyword(category) should be shown first.
+
+4.Report Generation (view) Based on The Video Viewed,Uploaded,Like Comment,Payment etc by the user.(to be downloaded in pdf format)
